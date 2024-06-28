@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Michał</h1>
 <h3 align="center">a Computer Science student from Poland.</h3>
 
-**About Me!**
+<h4 align="left">About Me!</h4>
 - 🌱 I’m currently diving into **Back-End technologies**
 - 💼 I’m pursuing a Bachelor's degree in Computer Science at Lublin University of Technology.
 <!--- 📫 Contact: **[michalmazur@gmail.com](mailto:michalmazur@gmail.com)** -->
 
-<h3 align="left">Languages and Tools I use:</h3>
+<h4 align="left">Languages and Tools I use:</h4>
 <p align="left">
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/> </a>
 <a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank" rel="noreferrer"> <img src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" alt="EF" width="40" height="40"/> </a>
