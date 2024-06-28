@@ -2,8 +2,8 @@
 <h3 align="center">a Computer Science student from Poland.</h3>
 
 <h4 align="left">About Me!</h4>
-- 🌱 I’m currently diving into **Back-End technologies**
-- 💼 I’m pursuing a Bachelor's degree in Computer Science at Lublin University of Technology.
+<p>- 🌱 I'm currently expanding my knowledge of .net to gain the mid developer level.</p>
+<p>- 💼 I'm finishing my engineering studies in Computer Science at Lublin University of Technology.</p>
 <!--- 📫 Contact: **[michalmazur@gmail.com](mailto:michalmazur@gmail.com)** -->
 
 <h4 align="left">Languages and Tools I use:</h4>
@@ -27,7 +27,7 @@
 <h4 align="left">I'm familiar with:</h4>
 <p align="left"> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
 </p>
 
 <h4 align="left">Connect with me:</h4>
