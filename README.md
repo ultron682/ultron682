@@ -9,7 +9,7 @@
 <h3 align="left">Languages and Tools I use:</h3>
 <p align="left">
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/> </a>
-<a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180707/sxa/kisspng-entity-framework-core-asp-net-core-net-framework-asp-5b40cad7827128.8883550615309728875343.jpg" alt="EF" width="40" height="40"/> </a>
+<a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank" rel="noreferrer"> <img src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" alt="EF" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
