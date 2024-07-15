@@ -2,7 +2,7 @@
 <h3 align="center">a Computer Science student from Poland.</h3>
 
 <h4 align="left">About Me!</h4>
-<p>- 🌱 I'm currently expanding my knowledge of .net to gain the mid developer level.</p>
+<p>- 🌱 I'm currently expanding my knowledge of ASP.NET and Angular to gain the mid developer level.</p>
 <p>- 💼 I'm finishing my engineering studies in Computer Science at Lublin University of Technology.</p>
 <!--- 📫 Contact: **[michalmazur@gmail.com](mailto:michalmazur@gmail.com)** -->
 
