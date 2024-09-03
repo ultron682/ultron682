@@ -4,7 +4,7 @@
 ---
 
 <h4 align="left">About Me</h4>
-<p>- 🧰 I'm currently expanding my knowledge of ASP.NET and Angular to reach the mid developer level.</p>
+<p>- 🧰 I am currently working as a freelancer and expanding my knowledge of ASP.NET and Angular to reach the mid developer level.</p>
 <p>- 📈 I'm finishing my engineering studies in Computer Science at Lublin University of Technology.</p>
 
 ---
