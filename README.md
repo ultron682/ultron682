@@ -12,7 +12,7 @@
 <h4 align="left">Languages and Tools I Use</h4>
 <p align="left">
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" width="40" height="40"/> 
 </a>
 <a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank" rel="noreferrer"> 
     <img src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" alt="EF Core" width="40" height="40"/> 
