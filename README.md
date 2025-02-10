@@ -4,8 +4,8 @@
 ---
 
 <h4 align="left">About Me</h4>
-<p>- 🧰 I am currently working as a freelancer and expanding my knowledge of ASP.NET and Angular.</p>
-<p>- 📈 I'm finishing my engineering studies in Computer Science at Lublin University of Technology.</p>
+<p>- 🧰 I have been working with ASP.NET for several years and am currently working as a freelancer. More recently, I've been learning to develop backend applications especially based on Java.</p>
+<p>- 📈 I am starting my master's degree in computer science at Lublin University of Technology.</p>
 
 ---
 
