@@ -4,7 +4,7 @@
 ---
 
 <h4 align="left">About Me</h4>
-<p>- 🧰 I have been working with ASP.NET for several years and am currently working as a freelancer. More recently, I've been learning to develop backend applications especially based on Java.</p>
+<p>- 🧰 I have been working with ASP.NET for several years and am currently working as a freelancer. Recently, I've been focusing on developing backend applications, particularly using Java.</p>
 <p>- 📈 I am starting my master's degree in computer science at Lublin University of Technology.</p>
 
 ---
