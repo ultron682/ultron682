@@ -4,8 +4,8 @@
 ---
 
 <h4 align="left">About Me</h4>
-<p>- 🧰 With several years of experience in ASP.NET, I am currently working as a developer specializing in backend development.</p>
-<p>- 📈 I am starting my master's degree in computer science at Lublin University of Technology.</p>
+<p>- 🧰 With several years of experience in ASP.NET, I am currently working as a developer specializing in backend development, .NET Developer at Sii</p>
+<p>- 📈 I am starting my master's degree in computer science at Lublin University of Technology</p>
 
 ---
 
